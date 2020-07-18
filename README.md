@@ -7,17 +7,16 @@
 - Progressive Web Application.
 - Web, Desktop y Mobile App
 - Aplicación offline.
-- Conexion masiva de usuarios.
+- Conexión masiva de usuarios.
 - Alto desempeño en dispositivos moviles.
 - Auditoria de Canciones.
-- Gestion de Partituras para las canciones(aun trabajando en mejoras de usabilidad).
+- Gestion de Partituras para las canciones (aún trabajando en mejoras de usabilidad).
 - Gestion de Letras para las canciones.
 - Gestion de Canciones.
 - Gestion de Colaboracion de Canciones.
 - Gestion de Accesos.
 - Gestion de Perfil de Usuario.
-- Búsqueda de Canciones, Colaboradores, Usuarios. 
-- Ruta optima desde origen hacia ubicacion del alumno.
+- Búsqueda de Canciones, Colaboradores y Usuarios. 
 
 # MusicMe - Inicialización
 
