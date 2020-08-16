@@ -36,5 +36,5 @@ git clone https://github.com/KeyCuevasMelgarejo/MUSICME
 # Licencias
     Ciencias-Math-App@v9
     │ └── GNU General Public License v3.0
-    ├─┬ CSS AND TEMPLATES (Aplicado a todos los apartados excepto a EditorLetras y Previsualizador)
+    ├─┬ CSS AND TEMPLATES (Aplicado a todos los apartados excepto a EditorLetras y Presentador)
     │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
