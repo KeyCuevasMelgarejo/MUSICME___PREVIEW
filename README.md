@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+# MusicMe - Demo
+![](Demo.gif)
+
 # MusicMe - Descripción del Proyecto
 **App Web para la mejora de la produccion musical desde un enfoque pre, intra y post escénico. La aplicación corresponde a los siguientes requerimientos:**
 - Progressive Web Application.
@@ -30,6 +33,8 @@ Para clonar y ejecutar el proyecto necesitas instalar primero [Git](https://git-
 # Clona este repositorio
 git clone https://github.com/KeyCuevasMelgarejo/MUSICME
 ```
-
-# MusicMe - Demo
-![](Demo.gif)
+## Licencias
+    Ciencias-Math-App@v9
+    │ └── GNU General Public License v3.0
+    ├─┬ CSS AND TEMPLATES (Aplicado a todos los apartados excepto a EditorLetras y Previsualizador)
+    │ └── MIT License - Copyright (c) 2017 Creative Tim (http://www.creative-tim.com)
