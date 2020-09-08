@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# MusicMe - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <a href="/LICENSE"><img src="https://img.shields.io/badge/licencia-GNU-red.svg" alt="licencia" /></a>
+# MusicMe - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <img src="https://img.shields.io/badge/licencia-GNU-red.svg" alt="licencia" />
 ![](Demo.gif)
 
 # MusicMe - Descripción del Proyecto
