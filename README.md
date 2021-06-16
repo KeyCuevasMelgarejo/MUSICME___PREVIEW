@@ -10,6 +10,7 @@
 - Progressive Web Application.
 - Web, Desktop y Mobile App
 - Aplicación offline.
+- Notificaciones via correo electrónico.
 - Conexión masiva de usuarios.
 - Alto desempeño en dispositivos moviles.
 - Auditoria de Canciones.
