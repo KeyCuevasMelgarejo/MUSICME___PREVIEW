@@ -6,7 +6,7 @@
 ![](Demo.gif)
 
 # MusicMe - Descripción del Proyecto
-**App Web para la mejora de la produccion musical desde un enfoque pre, intra y post escénico. La aplicación corresponde a los siguientes requerimientos:**
+**App Web para mejorar del proceso de composición musical y colaborativo en tiempo real. La aplicación corresponde a los siguientes requerimientos:**
 - Progressive Web Application.
 - Web, Desktop y Mobile App
 - Aplicación offline.
