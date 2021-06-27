@@ -2,12 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# MusicMe 
+# MusicMe - Demo
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <img src="https://img.shields.io/badge/LICENCIA-GPL-yellow?style=flat-square&logo=GIT&logoColor=white" alt="licencia" />
-
-# Demo 
-
 ![](Demo.gif)
 
 # Descripción del Proyecto
