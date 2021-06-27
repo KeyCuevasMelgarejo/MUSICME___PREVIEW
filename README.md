@@ -4,9 +4,10 @@
 ```
 # MusicMe 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <img src="https://img.shields.io/badge/LICENCIA-GPL-yellow?style=for-the-badge&logo=git&logoColor=white" alt="licencia" />
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <img src="https://img.shields.io/badge/LICENCIA-GPL-yellow?style=?style=flat-square&logo=git&logoColor=white" alt="licencia" />
 
-# Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW) <img src="https://img.shields.io/badge/licencia-GNU-red.svg" alt="licencia" />
+# Demo 
+
 ![](Demo.gif)
 
 # Descripción del Proyecto
