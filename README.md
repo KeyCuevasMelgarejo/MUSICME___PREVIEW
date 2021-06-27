@@ -5,7 +5,7 @@
 # MusicMe - Demo
 <p align="center"> 
     <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW" alt="visitas" />
-    <img src="https://img.shields.io/badge/LICENCIA-GPL-yellow?style=flat-square&logo=GIT&logoColor=white" alt="licencia" />
+    <img src="https://img.shields.io/badge/LICENCIA-GPL-yellow?style=flat-square" alt="licencia" />
 </p>
 <p align="center"> 
     <img src="/Demo.gif"/>
