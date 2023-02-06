@@ -4,7 +4,6 @@
 ```
 # MusicMe - Demo
 <p align="center"> 
-    <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FMUSICME___PREVIEW" alt="visitas" />
     <img src="https://img.shields.io/badge/Licencia-GPL-yellow?style=flat-square" alt="licencia" />
 </p>
 <p align="center"> 
